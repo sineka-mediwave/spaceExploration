@@ -37,3 +37,8 @@ logo is added
     width: 100px;
 }
 ```
+
+## 6. Changing jpg to animated image
+
+animated image is download from giphy.com
+and replacing the jpg to giff file
