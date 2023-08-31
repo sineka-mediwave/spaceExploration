@@ -22,3 +22,18 @@ added universe picture
 ## 3. Add google font
 
 added "satisfy" font-family from the google.
+
+## 4. add span tag
+
+underline the exploration tag with span tag.
+
+## 5. add spaceX logo
+
+logo is added
+
+```
+ <img src="assets/spacex-logo.jpg" alt="spaceX logo" id="space-logo" />
+#space-logo {
+    width: 100px;
+}
+```

@@ -12,3 +12,11 @@ body {
     border: none;
     font-family: 'Satisfy', cursive;
 }
+
+.underline {
+    border-bottom: 2px solid;
+}
+
+#space-logo {
+    width: 100px;
+}
