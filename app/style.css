@@ -1,5 +1,11 @@
 body {
-    color: wheat;
+    color: white;
     background-image: url(assets/space.jpg);
     background-size: cover;
+}
+
+.btn {
+    padding: 6PX 12PX;
+    background: white;
+    border: none;
 }
