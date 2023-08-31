@@ -1,16 +1,22 @@
 body {
-    color: white;
-    background-image: url(assets/giphy.gif);
-    background-size: cover;
+    color: #82a5ca;
     text-align: center;
     font-family: 'Satisfy', cursive;
 }
 
+#hero {
+    background-image: url(assets/giphy.gif);
+    background-size: cover;
+}
+
 .btn {
     padding: 6PX 12PX;
+    color: #82a5ca;
     background: white;
     border: none;
     font-family: 'Satisfy', cursive;
+    font-weight: bold;
+    margin-bottom: 90%;
 }
 
 .underline {
@@ -19,4 +25,8 @@ body {
 
 #space-logo {
     width: 100px;
+}
+
+#terms {
+    margin-bottom: 5px;
 }
