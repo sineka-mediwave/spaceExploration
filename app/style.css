@@ -2,10 +2,13 @@ body {
     color: white;
     background-image: url(assets/space.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
 }
 
 .btn {
     padding: 6PX 12PX;
     background: white;
     border: none;
+    font-family: 'Satisfy', cursive;
 }

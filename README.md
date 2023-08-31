@@ -18,3 +18,7 @@ added universe picture
     border: none;
 }
 ```
+
+## 3. Add google font
+
+added "satisfy" font-family from the google.
