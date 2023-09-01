@@ -42,3 +42,7 @@ logo is added
 
 animated image is download from giphy.com
 and replacing the jpg to giff file
+
+## 7. added the footer
+
+text terms and condition

@@ -4,9 +4,11 @@ body {
     font-family: 'Satisfy', cursive;
 }
 
-#hero {
+#main {
     background-image: url(assets/giphy.gif);
     background-size: cover;
+    padding: 10px 0 500px 0;
+
 }
 
 .btn {
@@ -16,7 +18,6 @@ body {
     border: none;
     font-family: 'Satisfy', cursive;
     font-weight: bold;
-    margin-bottom: 90%;
 }
 
 .underline {
@@ -25,8 +26,4 @@ body {
 
 #space-logo {
     width: 100px;
-}
-
-#terms {
-    margin-bottom: 5px;
 }
